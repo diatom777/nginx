@@ -1,2 +1,2 @@
-FROM nginx:latest
-ADD ./alex.html /nginx
+FROM ubuntu:latest
+ADD ./alex.html /home
